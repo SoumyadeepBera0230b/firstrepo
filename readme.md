@@ -12,3 +12,6 @@ So the folder has been tracked by the git but the files inside it are not added 
 
 To add the files of the folder to the repository we use the command "git add index.html"
 
+So I have commited all the files in the folder by using the command "git commit"
+
+All the files are commited now
