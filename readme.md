@@ -6,7 +6,7 @@ Now i had created a folder and a file in it named as learn git and files are ind
 
 To add the folder into the repo we use the following comand "git init". So the dublicate folder has been created in the git repository of the folder learn git
 
-To check the status of your file, we use the command "git status"
+To check the status of your file, we use the command "git status" or "git status --short"
 
 So the folder has been tracked by the git but the files inside it are not added to git repository 
 
@@ -15,3 +15,5 @@ To add the files of the folder to the repository we use the command "git add ind
 So I have commited all the files in the folder by using the command "git commit"
 
 All the files are commited now
+
+To know the history of the modifications we use "git log"
