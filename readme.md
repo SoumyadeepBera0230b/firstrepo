@@ -42,6 +42,8 @@ So this is how we can make changes by creating branches and then merging the bra
 
 The shortcut to make git branches and then checkouts then we use the command "git checkout -b branch-name"
 
+Now This changes are made in the github. So, github has a powerful code editor also
+
 
 
 
