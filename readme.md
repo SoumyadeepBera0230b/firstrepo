@@ -58,6 +58,7 @@ To merge we use the command "git merge origin"
 
 To check the history we use "git log origin/master"
 
+Should I have to pull this in my local git
 
 
 
