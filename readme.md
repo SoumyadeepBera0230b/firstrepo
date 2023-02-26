@@ -40,7 +40,15 @@ But when you checkout to master branch then in the ls you will not find the img.
 
 So this is how we can make changes by creating branches and then merging the branches to the master branch
 
-The shortcut to make git branches and then checkouts then we use the command "git checkout -b branch-name"
+The shortcut to make git branches and then checkouts, we use the command "git checkout -b branch-name"
+
+To merge the other branches with the master branche then use the following command "git merge emergency-branch" note that you should be in the master branch to make the merge successful
+
+Now as we have merged the emergency-fix branch to the master branch.
+
+So, now to can delete the emergency-fix branch by using the command "git branch -d emergency-fix"
+
+
 
 
 
