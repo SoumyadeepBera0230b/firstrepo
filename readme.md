@@ -58,7 +58,9 @@ To merge we use the command "git merge origin"
 
 To check the history we use "git log origin/master"
 
-Should I have to pull this in my local git
+So, Pull is used when you have made the changes in the origin and you want the same to be in your local git file then we use the command "git pull origin"
+
+The, Push is used when you have made the changes in your local git file and you want the same to be in your github origin then we use the command "git push origin"
 
 
 
