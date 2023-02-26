@@ -52,6 +52,12 @@ So, now to can delete the emergency-fix branch by using the command "git branch 
 
 Now This changes are made in the github. So, github has a powerful code editor also
 
+Pull from Github is the combination of fetch and merge. so, we use the command "get fetch origin" to fetch the present updates in the local 
+
+To merge we use the command "git merge origin"
+
+To check the history we use "git log origin/master"
+
 
 
 
