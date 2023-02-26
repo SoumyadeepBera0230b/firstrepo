@@ -50,6 +50,8 @@ So, now to can delete the emergency-fix branch by using the command "git branch 
 
 
 
+Now This changes are made in the github. So, github has a powerful code editor also
+
 
 
 
