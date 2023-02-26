@@ -10,10 +10,40 @@ To check the status of your file, we use the command "git status" or "git status
 
 So the folder has been tracked by the git but the files inside it are not added to git repository 
 
-To add the files of the folder to the repository we use the command "git add index.html"
+To add or stage the files of the folder to the repository we use the command "git add index.html"
 
-So I have commited all the files in the folder by using the command "git commit"
+Now all the files are staged and ready to be commited
+
+So I have commited all the files in the folder by using the command "git commit -m "
 
 All the files are commited now
 
 To know the history of the modifications we use "git log"
+
+If you forget about any of the command then we can use the command "git command -help" or "git help --all"
+
+By using the git branch we can a new/seperate branch of the master/ main repo
+
+We can create a branch by using the command "git branch img-update"
+
+When we check the git branches then we see the we are currenty in the master branch
+
+So to check out from the master branch we use "git checkout img-update" branch
+
+Now i have created a img.jpg file in the img-update branch and then commited the file by using "git add --all"
+
+Next, I had commited this file in the img-update branch 
+
+Now if you check the all the list directories(ls) in the img-update branch then you can see the img.jpg file
+
+But when you checkout to master branch then in the ls you will not find the img.jpg file
+
+So this is how we can make changes by creating branches and then merging the branches to the master branch
+
+The shortcut to make git branches and then checkouts then we use the command "git checkout -b branch-name"
+
+
+
+
+
+
